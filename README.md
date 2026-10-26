@@ -3,4 +3,5 @@
 <line></line>
 <br>
 Project that simulates banking operations: payment systems and bank transactions
+<br>
 <b>Stack: Java 17, Spring Boot, Spring Data JPA/Hibernate, PostgreSQL (em container Docker), Maven</b>
