@@ -6,6 +6,8 @@ target/
 
 .env
 
+log.txt
+
 ### STS ###
 .apt_generated
 .classpath
@@ -33,3 +35,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+log.txt
